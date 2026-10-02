@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LOR TO-DO
 
 <p align="center">
@@ -143,3 +144,6 @@ cd lor-todo
 ## 6. License
 
 This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)**. See the [LICENSE](LICENSE) file for details.
+=======
+# Lor-To-do
+>>>>>>> 9ac3839fdce9f549cbef3650f12add3da04850a4
