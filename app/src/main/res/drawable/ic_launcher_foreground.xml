@@ -1,0 +1,22 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- White clipboard base -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M34,26 C31.8,26 30,27.8 30,30 L30,78 C30,80.2 31.8,82 34,82 L74,82 C76.2,82 78,80.2 78,78 L78,30 C78,27.8 76.2,26 74,26 L64,26 C64,22.7 61.3,20 58,20 L50,20 C46.7,20 44,22.7 44,26 L34,26 Z"/>
+    <!-- Clip -->
+    <path
+        android:fillColor="#1D1B16"
+        android:pathData="M46,24 C46,22.9 46.9,22 48,22 L60,22 C61.1,22 62,22.9 62,24 L62,28 C62,29.1 61.1,30 60,30 L48,30 C46.9,30 46,29.1 46,28 Z"/>
+    <!-- Bold Checkmark in primary theme -->
+    <path
+        android:fillColor="#E5A800"
+        android:pathData="M48,63.5 L39.5,55 L42.3,52.2 L48,57.8 L65.7,40 L68.5,42.8 Z"/>
+    <!-- Checklist lines -->
+    <path
+        android:fillColor="#D0C9B8"
+        android:pathData="M40,70 L68,70 A2,2 0 0,1 68,74 L40,74 A2,2 0 0,1 40,70 Z"/>
+</vector>
