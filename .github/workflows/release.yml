@@ -32,9 +32,6 @@ jobs:
           distribution: 'temurin'
           cache: gradle
 
-      - name: Set up Android SDK
-        uses: android-actions/setup-android@v3
-
       - name: Strict Privacy Check (Verify NO INTERNET Permission)
         run: |
           echo "Checking AndroidManifest.xml for internet permission..."
