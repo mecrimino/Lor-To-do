@@ -1,1 +1,0 @@
-Fast, private, 100% offline to-do app. Zero setup, no internet permission, open source.
